@@ -1,0 +1,24 @@
+#jobs{
+    background: #ffffff !important;
+}
+.right-content i:hover{
+    color:#F2AB05;
+}
+#btn-addjob{
+   margin: 0px 0px 20px 0px;
+}
+.hide {
+    display: none;
+}
+.image-job{
+    border-radius: 1000px;
+}
+#custorm_form{
+   width: 550px;
+    height: 40px;
+    background: #FAF7FA;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    border: 1px solid #D3D3D3;
+    padding: 0px 10px;
+}
